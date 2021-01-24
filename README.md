@@ -59,7 +59,7 @@
       </a>
       <a href="https://vuejs.org/" target="_blank">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+          src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png"
           alt="vuejs"
           width="40"
           height="40"
