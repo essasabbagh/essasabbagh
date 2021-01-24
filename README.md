@@ -32,7 +32,7 @@
       </a>
       <a href="https://www.w3schools.com/css/" target="_blank">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+          src="https://i.pinimg.com/originals/a3/2f/83/a32f83aa2c675058e4a05a0fd4da05eb.png"
           alt="css3"
           width="40"
           height="40"
@@ -40,7 +40,7 @@
       </a>
       <a href="https://www.w3.org/html/" target="_blank">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+          src="https://cdn.iconscout.com/icon/free/png-256/html5-10-569380.png"
           alt="html5"
           width="40"
           height="40"
