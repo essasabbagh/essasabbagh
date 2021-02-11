@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Essa</h1>
 <h3 align="center">I'm front-end developer </h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=essasabbagh" alt="essasabbagh" /> </p>
 
 
 - 🔭 I’m currently working on my personal site
