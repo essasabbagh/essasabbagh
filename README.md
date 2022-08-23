@@ -1,21 +1,28 @@
 <h1 align="center">Hi 👋, I'm Essa</h1>
-<h3 align="center">I'm front-end developer </h1>
+<h3 align="center">I'm Flutter developer </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=essasabbagh" alt="essasabbagh" /> </p>
 
 
 - 🔭 I’m currently working on my personal site
-- 🌱 I’m currently learning Vue.js
-- 👯 I’m looking to collaborate on Vue.js
-- 🤔 I’m looking for help with Firebase
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on Flutter
+- 🤔 I’m looking for help with Native Mobile Devlopment
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Twitter](https://twitter.com/3ssasabbagh)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: JavaScript never sleep() s
+- ⚡ Fun fact: In Flutter, everything is a widget.
 
 
 <p align="left">
-      <a href="https://tailwindcss.com/" target="_blank">
+      <a href="https://flutter.dev/" target="_blank">
+        <img
+          src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png"
+          alt="tailwindcss"
+          width="50"
+          height="35"
+        />
+      </a><a href="https://tailwindcss.com/" target="_blank">
         <img
           src="https://user-images.githubusercontent.com/50638748/105629712-b2cde080-5e55-11eb-9cd5-4e19c4415bec.png"
           alt="tailwindcss"
